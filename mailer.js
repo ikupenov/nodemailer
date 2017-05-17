@@ -18,7 +18,7 @@ function send(req, res) {
 
     transport.sendMail(options, (error, info) => {
         if (error)
-            req.status(500).json({ error, message: info })
+            res.status(500).json({ error, message: info })
         else 
             res.status(200).json(info.response)
     })
