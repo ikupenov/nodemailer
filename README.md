@@ -1,11 +1,11 @@
 # nodemailer
 
-https://ik-nodemailer.herokuapp.com/
+https://ik-nodemailer.herokuapp.com/  
 POST /send
 
-{
-  senderEmail
-  subject
-  content
-  htmlContent
+{  
+&nbsp;&nbsp; senderEmail  
+&nbsp;&nbsp; subject  
+&nbsp;&nbsp; content  
+&nbsp;&nbsp; htmlContent  
 }
