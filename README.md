@@ -7,4 +7,4 @@ subject
 content
 htmlContent
 
-https://stormy-anchorage-92150.herokuapp.com/
+https://ik-nodemailer.herokuapp.com/
